@@ -7,7 +7,7 @@ The analysis is based on three approches:
 - Logistic Regression
 
 ## Requirements
-Python 3.6 (or higher)  
+python 3.6 (or higher)  
 matplotlib 2.1 (or higher)  
 numpy 1.10 (or higher)  
 pandas 0.20 (or higher)  
