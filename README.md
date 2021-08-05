@@ -3,7 +3,7 @@ In this project, I worked on the result of an A/B test run by an e-commerce webs
 
 The analysis is based on three approches:  
 - Probability
-- A/B Test
+- A/B Testing
 - Logistic Regression
 
 ## Requirements
